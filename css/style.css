@@ -15,7 +15,7 @@
     background: -webkit-linear-gradient(#eee, #333);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
+    text-shadow: 3px 3px 2px rgba(110, 110, 110, 0.2);
 
     /* Make sure text is infront of background images */
     display:block;
